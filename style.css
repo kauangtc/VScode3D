@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 :root {
---cor-de-fundo: #f11c1c;
+--cor-de-fundo: #000000;
 --verde: #6FFF57;
 --branco: #FFFFFF;
 --botao-ativo: #3A375E;
@@ -21,4 +21,13 @@ body{
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+}
+.titulo-pricipal{
+     text-align:left;
+     width:100%;
+    font-size:32px;
+}
+.botão{
+    font-family: "chakra petch",sans-serif;
+    
 }
